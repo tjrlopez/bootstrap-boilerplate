@@ -1,7 +1,5 @@
 # Bootstrap-boilerplate
 
-<<<<<<< HEAD
-=======
 ## What is this repo or project? 
 > - Core mobile first template 
 
@@ -13,4 +11,3 @@
 
 ## What is the goal of the project? 
 > - To save the new mobile web creator time and allow for the creator the focus on customizing. 
->>>>>>> 389bdbce17c97c44b57eb4d9d9c97fc71d7898cf
